@@ -16,4 +16,4 @@ while (not win(compguees,usernumber)):
         X=compguees    
     count+=1
     compguees=randomm_number(X,Y)
-print(f"GOOOOZOOOOOO i found your number in {count} and it is {compguees}")
+print(f"i found your number in {count} and it is {compguees}")
